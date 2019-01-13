@@ -9,7 +9,7 @@
  * 
  * TODO: error handling
  */
-function get_template($file, $args=[]) {
+function lt_get_template_part($file, $args=[]) {
 
     /**
      * Parse arguments, if any
